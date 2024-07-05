@@ -4,12 +4,7 @@
 
 1. Clone or Download the Repository
 
-  Use command - git clone <repository-url>
-
-
 2. Navigate to the Project Directory
-
-  cd /path/to/your/project/illumioTask
 
 3. Compile the program and run the Main file
 
