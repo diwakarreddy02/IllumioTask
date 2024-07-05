@@ -30,7 +30,7 @@
 3. **Empty Predefined Words File**
     - A predefined words file with no content.
    
-4. **No Matches Found**
+4. **Some article and predefined words**
     - An input file where none of the predefined words are present.
     
 5. **Large File Sizes**
